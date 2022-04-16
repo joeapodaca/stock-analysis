@@ -78,14 +78,14 @@ Beginning with the original code I began adding variables and created an array. 
 
 
 
-### Comparison of 2018 original code to refactored code
+### Comparison of 2018 original code to refactored code run times
 When looking at 2018 stocks the time to analyze was .738 seconds.
 ![2018 before](https://github.com/joeapodaca/stock-analysis/blob/main/2018%20Analyze.PNG)
 
 After refactoring the code 2018 stocks can now run in .113 seconds.
 ![2018 refactured](https://github.com/joeapodaca/stock-analysis/blob/main/2018%20Refactored%20Analyze.PNG)
 
-### Comparison of 2017 original code to refactored code
+### Comparison of 2017 original code to refactored code run times
 When looking at 2017 stocks the time to analyze was .718 seconds.
 ![2017 before](https://github.com/joeapodaca/stock-analysis/blob/main/2018%20Analyze.PNG)
 
